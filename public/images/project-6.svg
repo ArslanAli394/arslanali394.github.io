@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" fill="none">
+  <rect width="600" height="400" rx="12" fill="#f0f9ff"/>
+  <rect x="40" y="30" width="520" height="50" rx="8" fill="#0ea5e9" opacity=".15"/>
+  <text x="300" y="62" text-anchor="middle" font-family="system-ui" font-size="20" font-weight="600" fill="#0c4a6e">TechFix</text>
+  <rect x="40" y="100" width="250" height="100" rx="8" fill="#bae6fd"/>
+  <rect x="310" y="100" width="250" height="100" rx="8" fill="#bae6fd"/>
+  <rect x="40" y="220" width="520" height="80" rx="8" fill="#e0f2fe"/>
+  <text x="165" y="155" text-anchor="middle" font-family="system-ui" font-size="14" fill="#0c4a6e">🔧 Services</text>
+  <text x="435" y="155" text-anchor="middle" font-family="system-ui" font-size="14" fill="#0c4a6e">📞 Support</text>
+  <text x="300" y="266" text-anchor="middle" font-family="system-ui" font-size="16" fill="#0c4a6e">IT Services Website</text>
+  <rect x="40" y="320" width="520" height="50" rx="8" fill="#bae6fd" opacity=".5"/>
+</svg>

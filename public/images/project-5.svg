@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" fill="none">
+  <rect width="600" height="400" rx="12" fill="#faf5ff"/>
+  <rect x="40" y="30" width="520" height="50" rx="8" fill="#a855f7" opacity=".15"/>
+  <text x="300" y="62" text-anchor="middle" font-family="system-ui" font-size="20" font-weight="600" fill="#6b21a8">StyleHub</text>
+  <rect x="40" y="100" width="160" height="200" rx="8" fill="#e9d5ff"/>
+  <rect x="220" y="100" width="160" height="200" rx="8" fill="#e9d5ff"/>
+  <rect x="400" y="100" width="160" height="200" rx="8" fill="#e9d5ff"/>
+  <text x="120" y="210" text-anchor="middle" font-family="system-ui" font-size="14" fill="#6b21a8">👗 Fashion</text>
+  <text x="300" y="210" text-anchor="middle" font-family="system-ui" font-size="14" fill="#6b21a8">👔 Style</text>
+  <text x="480" y="210" text-anchor="middle" font-family="system-ui" font-size="14" fill="#6b21a8">👟 Trends</text>
+  <rect x="40" y="320" width="520" height="50" rx="8" fill="#f3e8ff"/>
+  <text x="300" y="352" text-anchor="middle" font-family="system-ui" font-size="16" fill="#6b21a8">Fashion E-Commerce</text>
+</svg>

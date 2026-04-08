@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" fill="none">
+  <rect width="600" height="400" rx="12" fill="#eff6ff"/>
+  <rect x="40" y="30" width="520" height="50" rx="8" fill="#3b82f6" opacity=".15"/>
+  <text x="300" y="62" text-anchor="middle" font-family="system-ui" font-size="20" font-weight="600" fill="#1e40af">CloudServe Solutions</text>
+  <rect x="40" y="100" width="250" height="120" rx="8" fill="#bfdbfe"/>
+  <rect x="310" y="100" width="250" height="120" rx="8" fill="#bfdbfe"/>
+  <rect x="40" y="240" width="520" height="60" rx="8" fill="#dbeafe"/>
+  <text x="165" y="165" text-anchor="middle" font-family="system-ui" font-size="14" fill="#1e40af">📊 Analytics</text>
+  <text x="435" y="165" text-anchor="middle" font-family="system-ui" font-size="14" fill="#1e40af">👥 Users</text>
+  <text x="300" y="278" text-anchor="middle" font-family="system-ui" font-size="16" fill="#1e40af">SaaS Dashboard</text>
+  <rect x="40" y="320" width="520" height="50" rx="8" fill="#bfdbfe" opacity=".5"/>
+</svg>

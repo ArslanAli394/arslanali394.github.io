@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" fill="none">
+  <rect width="600" height="400" rx="12" fill="#f0fdf4"/>
+  <rect x="40" y="30" width="520" height="50" rx="8" fill="#22c55e" opacity=".15"/>
+  <text x="300" y="62" text-anchor="middle" font-family="system-ui" font-size="20" font-weight="600" fill="#166534">Fresh Mart</text>
+  <rect x="40" y="100" width="160" height="180" rx="8" fill="#bbf7d0"/>
+  <rect x="220" y="100" width="160" height="180" rx="8" fill="#bbf7d0"/>
+  <rect x="400" y="100" width="160" height="180" rx="8" fill="#bbf7d0"/>
+  <text x="120" y="200" text-anchor="middle" font-family="system-ui" font-size="14" fill="#166534">🥕 Product</text>
+  <text x="300" y="200" text-anchor="middle" font-family="system-ui" font-size="14" fill="#166534">🍎 Product</text>
+  <text x="480" y="200" text-anchor="middle" font-family="system-ui" font-size="14" fill="#166534">🥦 Product</text>
+  <rect x="40" y="310" width="520" height="60" rx="8" fill="#dcfce7"/>
+  <text x="300" y="346" text-anchor="middle" font-family="system-ui" font-size="16" fill="#166534">E-Commerce Store</text>
+</svg>

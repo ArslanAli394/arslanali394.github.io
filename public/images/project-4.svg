@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" fill="none">
+  <rect width="600" height="400" rx="12" fill="#fffbeb"/>
+  <rect x="40" y="30" width="520" height="50" rx="8" fill="#f59e0b" opacity=".15"/>
+  <text x="300" y="62" text-anchor="middle" font-family="system-ui" font-size="20" font-weight="600" fill="#92400e">Al-Noor Restaurant</text>
+  <rect x="40" y="100" width="340" height="180" rx="8" fill="#fde68a" opacity=".5"/>
+  <rect x="400" y="100" width="160" height="85" rx="8" fill="#fde68a"/>
+  <rect x="400" y="195" width="160" height="85" rx="8" fill="#fde68a"/>
+  <text x="210" y="200" text-anchor="middle" font-family="system-ui" font-size="16" fill="#92400e">🍽️ Menu Gallery</text>
+  <text x="480" y="148" text-anchor="middle" font-family="system-ui" font-size="13" fill="#92400e">📅 Reserve</text>
+  <text x="480" y="244" text-anchor="middle" font-family="system-ui" font-size="13" fill="#92400e">📍 Location</text>
+  <rect x="40" y="310" width="520" height="60" rx="8" fill="#fef3c7"/>
+  <text x="300" y="346" text-anchor="middle" font-family="system-ui" font-size="16" fill="#92400e">Restaurant Website</text>
+</svg>
